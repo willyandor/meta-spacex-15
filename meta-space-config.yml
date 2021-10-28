@@ -1,0 +1,26 @@
+user:
+  username: andoroyur
+  nickname: BenBen43
+site:
+  title: Andoroyur15
+  subtitle: X-Space-O
+  description: Meta Space
+  author: BenBen43
+  keywords:
+    - MetaSpace
+  favicon: https://storageapi.fleek.co/casimir-crystal-team-bucket/metanetwork/users/metaio-storage/favicon.ico
+  avatar: https://metaspace.federarks.xyz/images/logo2.png
+  configId: 87
+  language: en
+  timezone: Asia/Shanghai
+  domain: andoroyur15.metaspaces.life
+  metaSpacePrefix: andoroyur15
+theme:
+  isPackage: true
+  id: 7
+  createdAt: 2021-10-11T01:10:43.994Z
+  updatedAt: 2021-10-11T01:10:43.994Z
+  themeName: fluid
+  themeRepo: https://github.com/fluid-dev/hexo-theme-fluid
+  themeBranch: master
+  themeType: HEXO
